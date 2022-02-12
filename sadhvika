@@ -1,0 +1,18 @@
+a=int(input('enter a value'))
+b=int(input('enter b value'))
+if(a==b):
+    print('a and b are equal')
+else :
+    print('a and b are not equal')
+if(a!=b):
+    print('a and b are not equal')
+else :
+    print('a and b are equal')
+if(a>b):
+     print('a is bigger')
+else :
+    print('b is bigger')
+if(a<b):
+    print('a is smaller')
+else :
+    print('b is smaller')
